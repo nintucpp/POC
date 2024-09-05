@@ -27,5 +27,11 @@ aws workspaces describe-workspaces --workspace-ids WSIKANO-J02L3ET
  git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 
+Username : neth
 
+Password :o]sEI7T!38k-
+
+Dev URL: https://nlb.api.iorig.dev.bank.ikano/camunda/app/cockpit/default/#/login
+
+Note:  Camunda dev can be accessed only through workspace
  
