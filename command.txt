@@ -1,0 +1,31 @@
+[2:47 PM] Philip Rice
+ts-node .\modules\fusionconfig\index.ts api -d demo -u organisations --debug --cache
+
+1) ts-node
+C:\Users\neelendra.s\Desktop\IKANO\fusion-master\fusion-master\modules\react\workbench>yarn start
+
+
+any of you have got access to confluence ?
+ 
+GitHub - https://github.com/enterprises/ikano-bank/sso
+GitHub
+GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects.
+ 
+jenkins - https://pipeline.le.tnt.bank.ikano/login?from=%2F
+ 
+nexus - https://artifacts.le.tnt.bank.ikano/
+ 
+ELK - https://31873324ae8046a0aaefa862f6e7a910.eu-central-1.aws.cloud.es.io:9243/spaces/space_selector
+ 
+
+https://github.com/run-book/fusion.git
+
+git clone -b wip https://github.com/run-book/fusion.git
+
+aws workspaces describe-workspaces --workspace-ids WSIKANO-J02L3ET
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+ 
