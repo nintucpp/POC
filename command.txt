@@ -14,7 +14,7 @@ GitHub is where people build software. More than 100 million people use GitHub t
 jenkins - https://pipeline.le.tnt.bank.ikano/login?from=%2F
  
 nexus - https://artifacts.le.tnt.bank.ikano/
- 
+JIRA https://ikano-bank.atlassian.net/jira/software/c/projects/TE/list
 ELK - https://31873324ae8046a0aaefa862f6e7a910.eu-central-1.aws.cloud.es.io:9243/spaces/space_selector
  
 
